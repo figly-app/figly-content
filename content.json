@@ -1,0 +1,485 @@
+{
+  "version": "2026-03-09",
+  "generatedAt": "2026-03-09T01:44:50.382755+00:00",
+  "tags": [
+    {
+      "slug": "adventure",
+      "label": "Adventure",
+      "category": "mood"
+    },
+    {
+      "slug": "animation",
+      "label": "Animation",
+      "category": "genre"
+    },
+    {
+      "slug": "calming",
+      "label": "Calming",
+      "category": "mood"
+    },
+    {
+      "slug": "educational",
+      "label": "Educational",
+      "category": "values"
+    },
+    {
+      "slug": "energetic",
+      "label": "Energetic",
+      "category": "mood"
+    },
+    {
+      "slug": "funny",
+      "label": "Funny",
+      "category": "mood"
+    },
+    {
+      "slug": "live_action",
+      "label": "Live Action",
+      "category": "genre"
+    },
+    {
+      "slug": "musical",
+      "label": "Musical",
+      "category": "genre"
+    },
+    {
+      "slug": "no_language",
+      "label": "No Language",
+      "category": "safety"
+    },
+    {
+      "slug": "no_nudity",
+      "label": "No Nudity",
+      "category": "safety"
+    },
+    {
+      "slug": "no_scary",
+      "label": "No Scary Scenes",
+      "category": "safety"
+    },
+    {
+      "slug": "no_violence",
+      "label": "No Violence",
+      "category": "safety"
+    },
+    {
+      "slug": "prosocial",
+      "label": "Pro-Social Themes",
+      "category": "values"
+    },
+    {
+      "slug": "stem",
+      "label": "STEM Content",
+      "category": "values"
+    }
+  ],
+  "providers": [
+    {
+      "slug": "disney_plus",
+      "name": "Disney+",
+      "androidPackage": "com.disney.disneyplus",
+      "intentScheme": "disneyplus://"
+    },
+    {
+      "slug": "netflix",
+      "name": "Netflix",
+      "androidPackage": "com.netflix.ninja",
+      "intentScheme": "nflx://"
+    },
+    {
+      "slug": "pbs_kids",
+      "name": "PBS Kids",
+      "androidPackage": "org.pbskids.video",
+      "intentScheme": null
+    }
+  ],
+  "items": [
+    {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "title": "Bluey",
+      "contentType": "series",
+      "year": 2018,
+      "description": "An Australian Blue Heeler puppy who loves to play imaginative games with her family.",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "ageRatings": {
+        "tv": "TV-Y7"
+      },
+      "tags": [
+        "no_nudity",
+        "no_violence",
+        "no_language",
+        "educational",
+        "prosocial",
+        "funny",
+        "animation"
+      ],
+      "ratings": {
+        "dove": {
+          "score": 5.0,
+          "maxScore": 5.0
+        },
+        "common_sense": {
+          "score": 4.0,
+          "maxScore": 18.0
+        }
+      },
+      "streamingLinks": [
+        {
+          "providerSlug": "disney_plus",
+          "deepLinkUrl": "https://www.disneyplus.com/series/bluey/1xy9TAOQ0M3r",
+          "androidIntent": null,
+          "availabilityType": "subscription"
+        }
+      ]
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000002",
+      "title": "Paw Patrol",
+      "contentType": "series",
+      "year": 2013,
+      "description": "A team of animated puppies and a tech-savvy boy work together on rescue missions.",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "ageRatings": {
+        "tv": "TV-Y"
+      },
+      "tags": [
+        "no_nudity",
+        "no_language",
+        "prosocial",
+        "adventure",
+        "animation"
+      ],
+      "ratings": {
+        "dove": {
+          "score": 4.0,
+          "maxScore": 5.0
+        },
+        "common_sense": {
+          "score": 3.0,
+          "maxScore": 18.0
+        }
+      },
+      "streamingLinks": [
+        {
+          "providerSlug": "disney_plus",
+          "deepLinkUrl": "https://www.disneyplus.com/series/paw-patrol/5P1WUmAAz4EF",
+          "androidIntent": null,
+          "availabilityType": "subscription"
+        },
+        {
+          "providerSlug": "netflix",
+          "deepLinkUrl": "https://www.netflix.com/title/80237311",
+          "androidIntent": null,
+          "availabilityType": "subscription"
+        }
+      ]
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000003",
+      "title": "Stranger Things",
+      "contentType": "series",
+      "year": 2016,
+      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments and supernatural forces.",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "ageRatings": {
+        "tv": "TV-14"
+      },
+      "tags": [
+        "adventure",
+        "live_action"
+      ],
+      "ratings": {
+        "common_sense": {
+          "score": 13.0,
+          "maxScore": 18.0
+        }
+      },
+      "streamingLinks": [
+        {
+          "providerSlug": "netflix",
+          "deepLinkUrl": "https://www.netflix.com/title/80057281",
+          "androidIntent": null,
+          "availabilityType": "subscription"
+        }
+      ]
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000004",
+      "title": "The Lion King",
+      "contentType": "movie",
+      "year": 1994,
+      "description": "A young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "ageRatings": {
+        "mpaa": "G"
+      },
+      "tags": [
+        "no_nudity",
+        "no_language",
+        "educational",
+        "prosocial",
+        "adventure",
+        "animation",
+        "musical"
+      ],
+      "ratings": {
+        "dove": {
+          "score": 4.5,
+          "maxScore": 5.0
+        },
+        "common_sense": {
+          "score": 6.0,
+          "maxScore": 18.0
+        }
+      },
+      "streamingLinks": [
+        {
+          "providerSlug": "disney_plus",
+          "deepLinkUrl": "https://www.disneyplus.com/movies/the-lion-king/1HqwiEcje6Nj",
+          "androidIntent": null,
+          "availabilityType": "subscription"
+        }
+      ]
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000005",
+      "title": "Finding Nemo",
+      "contentType": "movie",
+      "year": 2003,
+      "description": "After his son is captured, a timid clownfish sets out on a journey across the ocean to rescue him.",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "ageRatings": {
+        "mpaa": "G"
+      },
+      "tags": [
+        "no_nudity",
+        "no_language",
+        "educational",
+        "prosocial",
+        "funny",
+        "adventure",
+        "animation"
+      ],
+      "ratings": {
+        "dove": {
+          "score": 4.5,
+          "maxScore": 5.0
+        },
+        "common_sense": {
+          "score": 5.0,
+          "maxScore": 18.0
+        }
+      },
+      "streamingLinks": [
+        {
+          "providerSlug": "disney_plus",
+          "deepLinkUrl": "https://www.disneyplus.com/movies/finding-nemo/5Gpj2XqF7BV2",
+          "androidIntent": null,
+          "availabilityType": "subscription"
+        }
+      ]
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000006",
+      "title": "Encanto",
+      "contentType": "movie",
+      "year": 2021,
+      "description": "A young Colombian woman must face the frustration of being the only member of her family without magical powers.",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "ageRatings": {
+        "mpaa": "PG"
+      },
+      "tags": [
+        "no_nudity",
+        "no_violence",
+        "no_language",
+        "prosocial",
+        "funny",
+        "animation",
+        "musical"
+      ],
+      "ratings": {
+        "dove": {
+          "score": 4.0,
+          "maxScore": 5.0
+        },
+        "common_sense": {
+          "score": 6.0,
+          "maxScore": 18.0
+        }
+      },
+      "streamingLinks": [
+        {
+          "providerSlug": "disney_plus",
+          "deepLinkUrl": "https://www.disneyplus.com/movies/encanto/33q7DY1rtHQH",
+          "androidIntent": null,
+          "availabilityType": "subscription"
+        }
+      ]
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000007",
+      "title": "Moana",
+      "contentType": "movie",
+      "year": 2016,
+      "description": "An adventurous teenager sails out on a daring mission to save her people.",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "ageRatings": {
+        "mpaa": "PG"
+      },
+      "tags": [
+        "no_nudity",
+        "no_language",
+        "prosocial",
+        "adventure",
+        "animation",
+        "musical"
+      ],
+      "ratings": {
+        "dove": {
+          "score": 4.0,
+          "maxScore": 5.0
+        },
+        "common_sense": {
+          "score": 6.0,
+          "maxScore": 18.0
+        }
+      },
+      "streamingLinks": [
+        {
+          "providerSlug": "disney_plus",
+          "deepLinkUrl": "https://www.disneyplus.com/movies/moana/70GoJHflgHH9",
+          "androidIntent": null,
+          "availabilityType": "subscription"
+        }
+      ]
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000008",
+      "title": "Octonauts",
+      "contentType": "series",
+      "year": 2010,
+      "description": "A crew of animated animals explores the ocean, rescuing sea creatures and protecting their habitats.",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "ageRatings": {
+        "tv": "TV-Y"
+      },
+      "tags": [
+        "no_nudity",
+        "no_violence",
+        "no_language",
+        "educational",
+        "stem",
+        "calming",
+        "adventure",
+        "animation"
+      ],
+      "ratings": {
+        "dove": {
+          "score": 5.0,
+          "maxScore": 5.0
+        },
+        "common_sense": {
+          "score": 3.0,
+          "maxScore": 18.0
+        }
+      },
+      "streamingLinks": [
+        {
+          "providerSlug": "disney_plus",
+          "deepLinkUrl": "https://www.disneyplus.com/series/octonauts/41qSvN8bJalJ",
+          "androidIntent": null,
+          "availabilityType": "subscription"
+        }
+      ]
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000009",
+      "title": "Daniel Tiger's Neighborhood",
+      "contentType": "series",
+      "year": 2012,
+      "description": "Daniel Tiger and his friends learn social and emotional lessons in the Neighborhood of Make-Believe.",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "ageRatings": {
+        "tv": "TV-Y"
+      },
+      "tags": [
+        "no_nudity",
+        "no_violence",
+        "no_language",
+        "no_scary",
+        "educational",
+        "prosocial",
+        "calming",
+        "animation"
+      ],
+      "ratings": {
+        "dove": {
+          "score": 5.0,
+          "maxScore": 5.0
+        },
+        "common_sense": {
+          "score": 2.0,
+          "maxScore": 18.0
+        }
+      },
+      "streamingLinks": [
+        {
+          "providerSlug": "pbs_kids",
+          "deepLinkUrl": null,
+          "androidIntent": null,
+          "availabilityType": "free"
+        }
+      ]
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000010",
+      "title": "Wild Kratts",
+      "contentType": "series",
+      "year": 2011,
+      "description": "Animated brothers Martin and Chris Kratt explore animal habitats and learn about wildlife.",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "ageRatings": {
+        "tv": "TV-Y"
+      },
+      "tags": [
+        "no_nudity",
+        "no_violence",
+        "no_language",
+        "educational",
+        "stem",
+        "energetic",
+        "adventure",
+        "animation"
+      ],
+      "ratings": {
+        "dove": {
+          "score": 5.0,
+          "maxScore": 5.0
+        },
+        "common_sense": {
+          "score": 4.0,
+          "maxScore": 18.0
+        }
+      },
+      "streamingLinks": [
+        {
+          "providerSlug": "pbs_kids",
+          "deepLinkUrl": null,
+          "androidIntent": null,
+          "availabilityType": "free"
+        }
+      ]
+    }
+  ]
+}
